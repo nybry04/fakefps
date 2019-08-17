@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "id": "fakefps",
+  "version": "${version}",
+
+  "name": "FakeFPS",
+  "description": "Choose the number of frames you need!",
+  "authors": [
+    "NPE_"
+  ],
+  "contact": {
+    "homepage": "https://fabricmc.net/",
+    "sources": "https://github.com/FabricMC/fabric-example-mod"
+  },
+
+  "license": "MIT",
+  "icon": "assets/fakefps/icon.png",
+
+  "environment": "client",
+  "entrypoints": {
+    "main": [
+      "com.npe.fakefps.Mod"
+    ]
+  },
+  "mixins": [
+    "fakefps.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.4.0",
+    "fabric": "*"
+  },
+  "suggests": {
+    "flamingo": "*"
+  }
+}
