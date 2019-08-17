@@ -9,8 +9,8 @@
     "NPE_"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "homepage": "https://www.curseforge.com/minecraft/mc-mods/fakefps-fabric/",
+    "sources": "https://github.com/Goldenpants21/fakefps"
   },
 
   "license": "MIT",
