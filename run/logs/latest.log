@@ -1,0 +1,135 @@
+[20:54:12] [main/INFO]: Loading for game Minecraft 1.14.4
+[20:54:13] [main/INFO]: [FabricLoader] Loading 28 mods: fabric-networking-blockentity-v0@0.1.1+b494ebeb42, fabric-renderer-api-v1@0.1.1+9b03381f42, fabric-keybindings-v0@0.1.1+7dfef87c42, fabricloader@0.4.8+build.159, fabric-renderer-indigo@0.1.10+f0fe03ff42, fabric-containers-v0@0.1.2+b494ebeb42, fabric-biomes-v1@0.1.0+896c7fbb42, fabric-crash-report-info-v1@0.1.1+9f55aa7042, fabric-events-interaction-v0@0.1.1+9f55aa7042, fabric-api-base@0.1.0+b494ebeb42, fabric-rendering-v0@0.1.1+6dad974e42, fakefps@0.1, fabric-rendering-data-attachment-v1@0.1.0+b494ebeb42, fabric-resource-loader-v0@0.1.2+232e294c42, fabric-textures-v0@0.1.4+b494ebeb42, fabric-content-registries-v0@0.1.1+b494ebeb42, fabric-tag-extensions-v0@0.1.1+b494ebeb42, fabric-rendering-fluids-v1@0.1.1+39442fc242, fabric-registry-sync-v0@0.2.2+9b03381f42, fabric-commands-v0@0.1.1+b494ebeb42, fabric-mining-levels-v0@0.1.0+ab421b9c42, fabric-loot-tables-v1@0.1.0+b494ebeb42, fabric-events-lifecycle-v0@0.1.1+eff46b3d42, fabric@0.3.1+build.208, fabric-item-groups-v0@0.1.0+1e69a0a542, fabric-models-v0@0.1.0+5914746342, fabric-object-builders-v0@0.1.1+9b03381f42, fabric-networking-v0@0.1.3+9f55aa7042
+[20:54:13] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.7.11 Source=file:/root/.gradle/caches/modules-2/files-2.1/net.fabricmc/sponge-mixin/0.7.11.38/7dab4556021e5cf7ee1052c36c184f59ae4cba05/sponge-mixin-0.7.11.38.jar Service=Knot/Fabric Env=CLIENT
+[20:54:14] [main/INFO]: Loaded Fabric development mappings for mixin remapper!
+[20:54:14] [main/INFO]: Compatibility level set to JAVA_8
+[20:54:14] [main/INFO]: Remapping refMap fabric-networking-v0-refmap.json using remapper chain
+[20:54:14] [main/INFO]: Remapping refMap fabric-networking-blockentity-v0-refmap.json using remapper chain
+[20:54:14] [main/INFO]: Remapping refMap fabric-biomes-v1-refmap.json using remapper chain
+[20:54:14] [main/INFO]: Remapping refMap fabric-mining-levels-v0-refmap.json using remapper chain
+[20:54:14] [main/INFO]: Remapping refMap fabric-containers-v0-refmap.json using remapper chain
+[20:54:14] [main/INFO]: Remapping refMap fabric-renderer-indigo-refmap.json using remapper chain
+[20:54:14] [main/INFO]: Remapping refMap fabric-rendering-data-attachment-v1-refmap.json using remapper chain
+[20:54:14] [main/INFO]: Remapping refMap fabric-events-interaction-v0-refmap.json using remapper chain
+[20:54:14] [main/INFO]: Remapping refMap fabric-loot-tables-v1-refmap.json using remapper chain
+[20:54:14] [main/INFO]: Remapping refMap fabric-textures-v0-refmap.json using remapper chain
+[20:54:14] [main/INFO]: Remapping refMap fabric-registry-sync-v0-refmap.json using remapper chain
+[20:54:14] [main/INFO]: Remapping refMap fabric-models-v0-refmap.json using remapper chain
+[20:54:14] [main/INFO]: Remapping refMap fabric-keybindings-v0-refmap.json using remapper chain
+[20:54:14] [main/INFO]: Remapping refMap fabric-renderer-api-v1-refmap.json using remapper chain
+[20:54:14] [main/INFO]: Remapping refMap fabric-containers-v0-refmap.json using remapper chain
+[20:54:14] [main/INFO]: Remapping refMap fabric-events-lifecycle-v0-refmap.json using remapper chain
+[20:54:14] [main/INFO]: Remapping refMap fabric-rendering-fluids-v1-refmap.json using remapper chain
+[20:54:14] [main/INFO]: Remapping refMap fabric-resource-loader-v0-refmap.json using remapper chain
+[20:54:14] [main/INFO]: Remapping refMap fabric-rendering-v0-refmap.json using remapper chain
+[20:54:14] [main/INFO]: Remapping refMap fabric-object-builders-v0-refmap.json using remapper chain
+[20:54:14] [main/INFO]: Remapping refMap fabric-tag-extensions-v0-refmap.json using remapper chain
+[20:54:14] [main/INFO]: Remapping refMap fabric-item-groups-v0-refmap.json using remapper chain
+[20:54:14] [main/INFO]: Remapping refMap fabric-content-registries-v0-refmap.json using remapper chain
+[20:54:14] [main/INFO]: Remapping refMap fabric-crash-report-info-v1-refmap.json using remapper chain
+[20:54:14] [main/INFO]: Remapping refMap fabric-commands-v0-refmap.json using remapper chain
+[20:54:14] [main/INFO]: Remapping refMap fabric-renderer-api-v1-refmap.json using remapper chain
+[20:54:18] [main/INFO]: Setting user: Player988
+[20:54:35] [main/WARN]: Tried to register key binding with unregistered category 'FakeFPS' - please use addCategory to ensure intended category ordering!
+[20:54:35] [main/INFO]: [Indigo] Registering Indigo renderer!
+[20:54:36] [main/WARN]: Skipping bad option: lastServer:
+[20:54:36] [main/INFO]: LWJGL Version: 3.2.2 build 10
+[20:54:46] [main/WARN]: ERROR : Couldn't load Narrator library : Unable to load library 'fliteWrapper': Can't obtain InputStream for linux-x86-64/libfliteWrapper.so
+[20:54:50] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[20:55:28] [main/INFO]: OpenAL initialized.
+[20:55:28] [main/INFO]: Sound engine started
+[20:55:29] [main/INFO]: Created: 1024x512 textures-atlas
+[20:55:31] [main/INFO]: Created: 256x256 textures/particle-atlas
+[20:55:31] [main/INFO]: Created: 256x256 textures/painting-atlas
+[20:55:31] [main/INFO]: Created: 256x128 textures/mob_effect-atlas
+[20:55:40] [main/INFO]: [fabric-registry-sync] Loaded registry data [file 1/4]
+[20:55:41] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20:55:41] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:55:41] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:55:41] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20:55:41] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:55:41] [Server thread/INFO]: Starting integrated minecraft server version 1.14.4
+[20:55:41] [Server thread/INFO]: Generating keypair
+[20:55:42] [Server thread/INFO]: [fabric-registry-sync] Loaded registry data [file 1/4]
+[20:55:42] [Server thread/INFO]: Reloading ResourceManager: Default, fabric-mining-levels-v0
+[20:55:45] [Server thread/INFO]: Loaded 6 recipes
+[20:55:46] [Server thread/INFO]: Loaded 811 advancements
+[20:55:46] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:55:48] [main/INFO]: Preparing spawn area: 0%
+[20:55:48] [main/INFO]: Preparing spawn area: 0%
+[20:55:48] [main/INFO]: Preparing spawn area: 0%
+[20:55:48] [main/INFO]: Preparing spawn area: 0%
+[20:55:48] [main/INFO]: Preparing spawn area: 0%
+[20:55:49] [main/INFO]: Preparing spawn area: 0%
+[20:55:49] [main/INFO]: Preparing spawn area: 1%
+[20:55:50] [main/INFO]: Preparing spawn area: 1%
+[20:55:51] [main/INFO]: Preparing spawn area: 83%
+[20:55:51] [main/INFO]: Preparing spawn area: 83%
+[20:55:51] [main/INFO]: Preparing spawn area: 83%
+[20:55:52] [main/INFO]: Preparing spawn area: 89%
+[20:55:52] [main/INFO]: Preparing spawn area: 89%
+[20:55:53] [main/INFO]: Preparing spawn area: 90%
+[20:55:54] [main/INFO]: Preparing spawn area: 90%
+[20:55:54] [main/INFO]: Preparing spawn area: 90%
+[20:55:54] [main/INFO]: Preparing spawn area: 90%
+[20:55:54] [main/INFO]: Time elapsed: 8275 ms
+[20:55:55] [Server thread/INFO]: Changing view distance to 2, from 10
+[20:55:57] [Server thread/INFO]: Player988[local:E:9cf1485e] logged in with entity id 274 at (181.98879098889083, 4.0, 10.889637041834472)
+[20:55:57] [Server thread/INFO]: Player988 joined the game
+[20:55:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2417ms or 48 ticks behind
+[20:55:57] [Server thread/INFO]: Saving and pausing game...
+[20:55:57] [Server thread/INFO]: Saving chunks for level 'New World'/minecraft:the_nether
+[20:55:57] [Server thread/INFO]: Saving chunks for level 'New World'/minecraft:overworld
+[20:55:59] [Server thread/INFO]: Saving chunks for level 'New World'/minecraft:the_end
+[20:55:59] [main/INFO]: Loaded 0 advancements
+[20:56:00] [Server thread/INFO]: Saving and pausing game...
+[20:56:00] [Server thread/INFO]: Saving chunks for level 'New World'/minecraft:the_nether
+[20:56:00] [Server thread/INFO]: Saving chunks for level 'New World'/minecraft:overworld
+[20:56:00] [Server thread/INFO]: Saving chunks for level 'New World'/minecraft:the_end
+[20:56:05] [Server thread/INFO]: Saving and pausing game...
+[20:56:05] [Server thread/INFO]: Saving chunks for level 'New World'/minecraft:the_nether
+[20:56:05] [Server thread/INFO]: Saving chunks for level 'New World'/minecraft:overworld
+[20:56:05] [Server thread/INFO]: Saving chunks for level 'New World'/minecraft:the_end
+[20:56:06] [Server thread/INFO]: Saving and pausing game...
+[20:56:06] [Server thread/INFO]: Saving chunks for level 'New World'/minecraft:the_nether
+[20:56:06] [Server thread/INFO]: Saving chunks for level 'New World'/minecraft:overworld
+[20:56:06] [Server thread/INFO]: Saving chunks for level 'New World'/minecraft:the_end
+[20:56:10] [Server thread/INFO]: Player988 has made the advancement [Monster Hunter]
+[20:56:10] [main/INFO]: [CHAT] Player988 has made the advancement [Monster Hunter]
+[20:56:10] [main/INFO]: Loaded 15 advancements
+[20:56:11] [Server thread/INFO]: Saving and pausing game...
+[20:56:11] [Server thread/INFO]: Saving chunks for level 'New World'/minecraft:the_nether
+[20:56:11] [Server thread/INFO]: Saving chunks for level 'New World'/minecraft:overworld
+[20:56:11] [Server thread/INFO]: Saving chunks for level 'New World'/minecraft:the_end
+[20:56:13] [Server thread/INFO]: Saving and pausing game...
+[20:56:13] [Server thread/INFO]: Saving chunks for level 'New World'/minecraft:the_nether
+[20:56:13] [Server thread/INFO]: Saving chunks for level 'New World'/minecraft:overworld
+[20:56:13] [Server thread/INFO]: Saving chunks for level 'New World'/minecraft:the_end
+[20:56:16] [Server thread/INFO]: Saving and pausing game...
+[20:56:16] [Server thread/INFO]: Saving chunks for level 'New World'/minecraft:the_nether
+[20:56:16] [Server thread/INFO]: Saving chunks for level 'New World'/minecraft:overworld
+[20:56:16] [Server thread/INFO]: Saving chunks for level 'New World'/minecraft:the_end
+[20:56:18] [Server thread/INFO]: Saving and pausing game...
+[20:56:18] [Server thread/INFO]: Saving chunks for level 'New World'/minecraft:the_nether
+[20:56:18] [Server thread/INFO]: Saving chunks for level 'New World'/minecraft:overworld
+[20:56:18] [Server thread/INFO]: Saving chunks for level 'New World'/minecraft:the_end
+[20:56:20] [Server thread/INFO]: Saving and pausing game...
+[20:56:20] [Server thread/INFO]: Saving chunks for level 'New World'/minecraft:the_nether
+[20:56:20] [Server thread/INFO]: Saving chunks for level 'New World'/minecraft:overworld
+[20:56:20] [Server thread/INFO]: Saving chunks for level 'New World'/minecraft:the_end
+[20:56:51] [main/INFO]: Stopping!
+[20:56:51] [Server thread/INFO]: Player988 lost connection: Disconnected
+[20:56:51] [Server thread/INFO]: Player988 left the game
+[20:56:51] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[20:56:51] [Server thread/INFO]: Stopping server
+[20:56:51] [Server thread/INFO]: Saving players
+[20:56:51] [Server thread/INFO]: Saving worlds
+[20:56:51] [Server thread/INFO]: Saving chunks for level 'New World'/minecraft:the_nether
+[20:56:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:56:51] [Server thread/INFO]: Saving chunks for level 'New World'/minecraft:overworld
+[20:56:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (New World): All chunks are saved
+[20:56:51] [Server thread/INFO]: Saving chunks for level 'New World'/minecraft:the_end
+[20:56:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:56:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:56:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (New World): All chunks are saved
+[20:56:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved

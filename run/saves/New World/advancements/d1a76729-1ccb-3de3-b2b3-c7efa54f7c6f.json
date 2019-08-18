@@ -1,0 +1,27 @@
+{
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2019-08-18 20:56:10 +0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:slime": "2019-08-18 20:56:10 +0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:slime": "2019-08-18 20:56:10 +0700"
+    },
+    "done": false
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2019-08-18 20:55:57 +0700"
+    },
+    "done": false
+  },
+  "DataVersion": 1976
+}
