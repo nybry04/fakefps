@@ -35,7 +35,7 @@ public class Mod implements ModInitializer {
 
         ClientTickCallback.EVENT.register(e -> {
             if(key.wasPressed()){
-                MinecraftClient.getInstance().openScreen(new FPSMenu(MinecraftClient.getInstance().currentScreen));
+                MinecraftClient.getInstance().openScreen(new FPSMenu(MinecraftClient.getInstance().currentScreen, config.isFPSLocked()));
             }
         });
 

@@ -9,10 +9,13 @@ public class ConfigLoader {
         String filename = "FakeFPS.cfg";
         File filecfg = new File(filename);
         try{
-            if(!filecfg.exists()) filecfg.createNewFile();
-            Config c = new Config();
-            save(c);
-            return c;
+            if(!filecfg.exists()){
+                filecfg.createNewFile();
+                Config c = new Config();
+                save(c);
+                return c;
+            }
+
         }catch (IOException e){
             e.printStackTrace();
         }
